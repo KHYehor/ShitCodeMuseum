@@ -1,0 +1,2 @@
+# ShitCodeMuseum
+Shit Code Museum 
